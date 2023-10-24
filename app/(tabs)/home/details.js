@@ -12,7 +12,7 @@ export default function Details() {
           router.back();
         }}
       >
-        GO BACK
+        GO WAY BACK
       </Text>
     </View>
   );
